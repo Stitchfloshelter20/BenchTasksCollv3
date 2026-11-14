@@ -1,0 +1,3 @@
+# storage-manager
+
+Status: implemented
