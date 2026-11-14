@@ -1,0 +1,3 @@
+# discount-calculator
+
+Status: implemented
